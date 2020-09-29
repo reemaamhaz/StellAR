@@ -10,22 +10,22 @@ Download from the *Education Category* on the Apple App Store here: **xxxx**
 
 StellAR has been built using React Native, ViroReact, Redux, Vectary, Adobe After Effects and Facebook's Spark AR Studio. 
 
- 1.  **React Native**
-  The core of StellAR is built using JavaScript in React Native. This framework was chosen to allow for possible deployment on both Android and iOS.
+ 1.  **React Native** <br/>
+ The core of StellAR is built using JavaScript in React Native. This framework was chosen to allow for possible deployment on both Android and iOS.
   
- 2. **ViroReact**
+ 2. **ViroReact** <br/>
  ViroReact integrates with React Native to facilitate full AR functionality. This includes plane recognition, object placement, interactivity with 3D objects and the facilitation of AR Portals. 
  
- 3. **Redux**
+ 3. **Redux** <br/>
  Redux was added to the project to best manage application state and navigation. 
  
- 4. **Vectary**
+ 4. **Vectary** <br/>
  3D scenes and objects were built using Vectary's 3D Design and Modelling platform. Each was exported as an FBX file that was converted to Viro's own VRX format using the ViroFBX script.
  
- 5. **Adobe After Effects**
+ 5. **Adobe After Effects** <br/>
  AR Portal scenes were built as 360-degree videos in Adobe After Effects. Space facts and learnings within each AR Portal were sourced from NASA's various digital resources. 
  
- 6. **Spark AR**
+ 6. **Spark AR** <br/>
 Instagram and Facebook compatible AR Filters were built in JavaScript using Facebook's SparkAR Studio. These were designed as an AR aligned promotional gateway to the educational app. 
 
 
