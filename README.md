@@ -58,7 +58,7 @@ insert demo gif
 # AR Filter Demo
 Try it out at this link **here**!
 
-insert demo gif
+![Artemis AR Filter](ArtemisFilter.gif)
 
 
 
