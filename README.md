@@ -39,7 +39,6 @@ Instagram and Facebook compatible AR Filters were built in JavaScript using Face
 
 ### AR World:
 
-insert demo gif
 ![AR World](ar.gif)
 
 
