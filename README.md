@@ -4,8 +4,6 @@
 
 Get hands-on with planets, stars, asteroids and moons with StellAR. **Explore** the Gas Giants, Asteroid Belt and Terrestrial planets - and jump into **AR Portals** to learn impressive space facts! Whether you’re looking to pop-up and traverse space in your living room, or you’re eager to **learn** about some of our universe's most captivating astronomical objects - StellAR has an Augmented Reality experience guaranteed to make both your **mind & jaw DROP**!
 
-Download from the *Education Category* on the Apple App Store here: **xxxx**
-
 # Tech Stack
 
 StellAR has been built using React Native, ViroReact, Redux, Vectary, Adobe After Effects and Facebook's Spark AR Studio. 
@@ -35,24 +33,19 @@ Instagram and Facebook compatible AR Filters were built in JavaScript using Face
     
 2. Watch the enormous space world **move and rotate** within your home/classroom - and be in awe of how captivating space is!
     
-3. Jump into an AR Portal within each world to get some **JUICY** space facts! The largest asteroid, planets with **WILD** gravity levels, and the closest planet to Earth. Learn everything within an interactive and exciting space journey!
+3. Jump into an AR Portal within each world to get some interesting space facts! The largest asteroid, planets with **WILD** gravity levels, and the closest planet to Earth. Learn everything within an interactive and exciting space journey!
 
 # App Demo
 
 ### AR World:
 
 insert demo gif
+![AR World](ar.gif)
 
 
-### AR Portal:
+### VR Portal:
 
-insert demo gif
-
-
-### Navigation:
-
-insert demo gif
-
+![VR Portal](portal.gif)
 
 
 # AR Filter Demo
@@ -67,4 +60,4 @@ Try it out at this link **here**!
 StellAR began as a group project between six 2020 Harvard Summer School Students studying Agile Software Development: Morgan Hulsey (Scrum Master),  Lily Nguyen (Product Owner), Reema Amhaz (Dev), Nitya Pandeti (Dev), Bear Kruz (Dev), Polina Ibragimova (Dev). The concept of an AR education app was fully realised by Reema Amhaz (NYU Class of '21) and Bear Kruz (USYD Class of '22) in the 2 months following completion of the course. The original GitHub Repository can be found [here](https://github.com/nbpandeti/the-sinister-six). 
 
 💫 **#Fact:**
-The StellAR App Icon was shot by Reema Amhaz in NYC on the 05/09/20 using her xxxxxx Telescope!
+The StellAR App Icon was shot by Reema Amhaz in NYC on the 05/09/20 using her telescope!
